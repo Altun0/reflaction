@@ -1,0 +1,13 @@
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/bin/Debug/netcoreapp3.1/ReflactionIndexer.deps.json
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/bin/Debug/netcoreapp3.1/ReflactionIndexer.runtimeconfig.json
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/bin/Debug/netcoreapp3.1/ReflactionIndexer.runtimeconfig.dev.json
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/bin/Debug/netcoreapp3.1/ReflactionIndexer.dll
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/bin/Debug/netcoreapp3.1/ReflactionIndexer.pdb
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/obj/Debug/netcoreapp3.1/ReflactionIndexer.csproj.AssemblyReference.cache
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/obj/Debug/netcoreapp3.1/ReflactionIndexer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/obj/Debug/netcoreapp3.1/ReflactionIndexer.AssemblyInfoInputs.cache
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/obj/Debug/netcoreapp3.1/ReflactionIndexer.AssemblyInfo.cs
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/obj/Debug/netcoreapp3.1/ReflactionIndexer.csproj.CoreCompileInputs.cache
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/obj/Debug/netcoreapp3.1/ReflactionIndexer.dll
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/obj/Debug/netcoreapp3.1/ReflactionIndexer.pdb
+/Users/altun/Projects/ReflactionIndexer/ReflactionIndexer/obj/Debug/netcoreapp3.1/ReflactionIndexer.genruntimeconfig.cache

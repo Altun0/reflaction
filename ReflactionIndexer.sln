@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflactionIndexer", "ReflactionIndexer\ReflactionIndexer.csproj", "{6B8DE298-C99B-4EEF-B60B-9F5A3452A825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8DE298-C99B-4EEF-B60B-9F5A3452A825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8DE298-C99B-4EEF-B60B-9F5A3452A825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8DE298-C99B-4EEF-B60B-9F5A3452A825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8DE298-C99B-4EEF-B60B-9F5A3452A825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB56E3F7-76C7-41A5-99E3-DFFA7915A0F8}
+	EndGlobalSection
+EndGlobal

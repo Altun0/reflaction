@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6B8DE298-C99B-4EEF-B60B-9F5A3452A825}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReflactionIndexer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReflactionIndexer/Find.cs">
+    <Files>
+      <File FileName="ReflactionIndexer/Program.cs" Line="21" Column="1" />
+      <File FileName="ReflactionIndexer/Book.cs" Line="13" Column="37" />
+      <File FileName="ReflactionIndexer/Library.cs" Line="27" Column="38" />
+      <File FileName="ReflactionIndexer/Find.cs" Line="43" Column="3" />
+      <File FileName="ReflactionIndexer/count.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReflactionIndexer" expanded="True">
+            <Node name="ReflactionIndexer" expanded="True">
+              <Node name="Find.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
